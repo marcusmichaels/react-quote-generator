@@ -17,7 +17,7 @@ class App extends React.Component {
         },
         {
           quote: "You know, Hobbes, some days even my lucky rocket ship underpants don't help.",
-          author: "-Bill Watterson",
+          author: "Bill Watterson",
         },
         {
           quote: "You people talk about the living and the dead as if they were two mutually exclusive categories. As if you cannot have a river that is also a road, or a song that is also a color.",
